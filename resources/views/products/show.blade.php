@@ -41,7 +41,7 @@
 					</p>
 				</div>
     			<p class="price"><span>${{$singleProduct->price}}</span></p>
-    			<p>{{$singleProduct->description}}</p>
+    			<p>{!! $singleProduct->description !!}</p>
 				<div class="row mt-4">
 					<div class="col-md-6">
 					<!-- Form goes here-->

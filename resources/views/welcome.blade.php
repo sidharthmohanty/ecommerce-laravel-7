@@ -264,7 +264,7 @@
 						<div class="text text-center">
 						<p class="mb-5 pl-4 line">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
 						<p class="name">{{$user->name}}</p>
-						<span class="position">Scientist</span>
+						<span class="position">Developer</span>
 						</div>
 					</div>
 					</div>

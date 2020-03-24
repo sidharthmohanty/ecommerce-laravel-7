@@ -14,7 +14,7 @@ return [
     |
     */
     'stripe' => [
-        'secret' => 'enteryourstripekeyhere',
+        'secret' => 'sk_test_enqD0DLyB2U0zpbOlK5r2ANK00O9LyDabp',
     ],
 
     'mailgun' => [
